@@ -61,6 +61,18 @@
     local('SourceSansPro-SemiboldIt'),
     url('fonts/Source_Sans_Pro_600italic.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight:900;
+  src:
+    url('fonts/source-sans-pro.black.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Source Sans Pro Black';
+  src:
+    url('fonts/source-sans-pro.black.ttf') format('truetype');
+}
 /*!
  *   AdminLTE v2.3.2
  *   Author: Almsaeed Studio
@@ -227,6 +239,7 @@ h6,
 .h6 {
   font-family: 'Source Sans Pro', sans-serif;
 }
+
 /* General Links */
 a {
   color: #3c8dbc;
