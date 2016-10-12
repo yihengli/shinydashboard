@@ -2152,7 +2152,7 @@ a:focus {
   text-overflow: ellipsis;
 }
 .info-box-text {
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 .info-box-more {
   display: block;
