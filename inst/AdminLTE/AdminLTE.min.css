@@ -2153,6 +2153,7 @@ a:focus {
 }
 .info-box-text {
   text-transform: capitalize;
+  font-weight: 700;
 }
 .info-box-more {
   display: block;
